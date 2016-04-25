@@ -1,0 +1,2 @@
+python-memcached==1.53
+-e git+https://github.com/oreza/consistent-hash.git#egg=consistent-hash
